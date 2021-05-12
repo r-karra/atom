@@ -42,7 +42,7 @@
     "bracket-matcher": "https://www.atom.io/api/packages/bracket-matcher/versions/0.89.3/tarball",
     "cached-run-in-this-context": "0.5.0",
     "chai": "3.5.0",
-    "chart.js": "^2.3.0",
+    "chart.js": "^2.9.4",
     "clear-cut": "^2.0.2",
     "coffee-script": "1.12.7",
     "color": "^0.7.3",
